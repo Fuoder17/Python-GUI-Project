@@ -1,0 +1,4 @@
+([('CollegeAdmission',
+   '/Users/yusufusanu/Documents/Python- Desktop Database Application/Tkinter '
+   'Project_Final/dist/CollegeAdmission',
+   'EXECUTABLE')],)
